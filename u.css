@@ -1,0 +1,33 @@
+.bio{
+    color: #efefef;
+    background-color: #d38080;
+}
+
+#age{
+    color: #e45f5f;
+    background-color: #1b1b1b;
+}
+
+.work{
+    color: #fffefe;
+    background-color: #706f6f;
+}
+
+.submit{
+    color: #fffefe;
+    background-color: #706f6f;
+}
+
+.bio,
+#age,
+.work,
+.submit{
+    margin: 0;
+}
+.bio,
+#age{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
